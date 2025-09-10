@@ -1,0 +1,16 @@
+item.clay_ball.name=Clay
+item.slime_ball.name=Slime
+item.suspicious_stew.name=Ramen
+item.fish.name=Sushi
+item.salmon.name=Nigiri
+item.dried_kelp.name=Nori
+item.porkchop.name=Raw Bacon
+item.cooked_porkchop.name=Bacon
+item.cookie.name=Eclair
+tile.gold_block.name=Gold Bricks
+item.cooked_beef.name=Steak
+item.cooked_chicken.name=Fried Egg
+
+entity.panda.name=Red Panda
+item.spawn_egg.entity.panda.name=Spawn Red Panda
+joincode.icon_text.14=Red Panda

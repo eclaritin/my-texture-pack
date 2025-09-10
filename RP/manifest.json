@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Eclair"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.50"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Eclairs Textures",
+		"description": "Cool Resource Pack :D",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "7321dcd8-d8dc-4831-b376-c5319ca00ad4",
+		"version": [
+			1,
+			1,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "8a59e8a8-7b73-420f-93b7-108fa8b16c2f",
+			"version": [
+				1,
+				1,
+				2
+			]
+		}
+	]
+}
